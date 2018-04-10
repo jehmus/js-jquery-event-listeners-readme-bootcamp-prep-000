@@ -8,8 +8,12 @@ function getIt() {
 
 function frameIt() {
   $(document).on("load", function() {
-    
+    $("img").addClass("tasty")
   })
+}
+
+function pressIt(){
+  $()
 }
 $(document).ready(function(){
 
